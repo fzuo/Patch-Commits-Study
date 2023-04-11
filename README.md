@@ -3,12 +3,15 @@ A Survey on Source Code Patch Commit Mining in OSS
 
 ![Overview](https://github.com/fzuo/Patch-Commits-Study/blob/master/figs/overview.png "An overview and taxonomy of the related papers")
 
+-------------------
+
 - #### Detecting “0-Day” Vulnerability: An Empirical Study of Secret Security Patch in OSS, DSN, 2019
 
 **Paper**: [[link1]](https://csis.gmu.edu/ksun/publications/secretpatch-dsn19.pdf) [[link2]](https://ieeexplore.ieee.org/document/8809499)
 
 [Dataset](https://github.com/SecretPatch/Dataset)
 
+-------------------
 
 - #### SSPCATCHER: Learning to catch security patches, Empirical Software Engineering, 2022
 
@@ -43,7 +46,8 @@ A Survey on Source Code Patch Commit Mining in OSS
 **Paper**: [[link1]](https://www.mdpi.com/2076-3417/13/6/3938)
 
 - #### A Practical Approach to the Automatic Classiﬁcation of Security-Relevant Commits, ICSME, 2018
-- 
+
+
 **Paper**: [[link1]](https://info.computer.org/csdl/proceedings-article/icsme/2018/787000a579/17D45VW8bqq) [[link2]](https://ieeexplore.ieee.org/abstract/document/8530068)
 
 - #### GraphSPD: Graph-Based Security Patch Detection with Enriched Code Semantics, S&P, 2023
