@@ -91,6 +91,24 @@ A Survey on Source Code Patch Commit Mining in OSS
 
 -------------------
 
+- #### Finding A Needle in a Haystack: Automated Mining of Silent Vulnerability Fixes, ASE, 2021
+
+**Paper**: [[link1]](https://ieeexplore.ieee.org/document/9678720) [[link2]](https://xin-xia.github.io/publication/ase211.pdf)
+
+-------------------
+
+- #### SPI: Automated Identification of Security Patches via Commits, TOSEM, 2021
+
+**Paper**: [[link1]](https://arxiv.org/abs/2105.14565) [[link2]](https://dl.acm.org/doi/10.1145/3468854)
+
+-------------------
+
+- #### Enhancing Security Patch Identification by Capturing Structures in Commits, TDSC, 2022
+
+**Paper**: [[link1]](https://arxiv.org/abs/2207.09022) [[link2]](https://ieeexplore.ieee.org/abstract/document/9837949)
+
+-------------------
+
 - #### VCMATCH: A Ranking-based Approach for Automatic Security Patches Localization for OSS Vulnerabilities, SANER, 2022
 
 **Paper**: [[link1]](https://ieeexplore.ieee.org/document/9825908) [[link2]](https://www.computer.org/csdl/proceedings-article/saner/2022/378600a589/1FbT4j32OsM)
