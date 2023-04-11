@@ -77,6 +77,26 @@ A Survey on Source Code Patch Commit Mining in OSS
 
 -------------------
 
+- #### Locating the Security Patches for Disclosed OSS Vulnerabilities with Vulnerability-Commit Correlation Ranking, CCS, 2021
+
+**Paper**: [[link1]](https://csis.gmu.edu/ksun/publications/Locating%20Patch-CCS21.pdf) [[link2]](https://dl.acm.org/doi/abs/10.1145/3460120.3484593)
+
+-------------------
+
+- #### A ground-truth dataset of real security patches, ArXiv, 2021
+
+**Paper**: [[link1]](https://arxiv.org/abs/2110.09635)
+
+[Resource](https://github.com/TQRG/security-patches-dataset)
+
+-------------------
+
+- #### VCMATCH: A Ranking-based Approach for Automatic Security Patches Localization for OSS Vulnerabilities, SANER, 2022
+
+**Paper**: [[link1]](https://ieeexplore.ieee.org/document/9825908) [[link2]](https://www.computer.org/csdl/proceedings-article/saner/2022/378600a589/1FbT4j32OsM)
+
+-------------------
+
 - #### SSPCATCHER: Learning to catch security patches, Empirical Software Engineering, 2022
 
 **Paper**: [[link1]](https://jacquesklein2302.github.io/papers/2022-EMSE-Arthur-SSPCatcher.pdf) [[link2]](https://link.springer.com/article/10.1007/s10664-022-10168-9)
