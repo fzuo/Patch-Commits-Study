@@ -73,7 +73,7 @@ A Survey on Source Code Patch Commit Mining in OSS
 
 **Paper**: [[link1]](https://arxiv.org/abs/2108.03358) [[link2]](https://ieeexplore.ieee.org/document/9652940)
 
-[Resource] (https://github.com/shuwang127/PatchRNN-demo)
+[Resource](https://github.com/shuwang127/PatchRNN-demo)
 
 -------------------
 
