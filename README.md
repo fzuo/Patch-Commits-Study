@@ -122,6 +122,12 @@ International Journal of Information Security. (2024). https://doi.org/10.1007/s
 
 -------------------
 
+- #### [44] PatchNet: Hierarchical Deep Learning-Based Stable Patch Identification for the Linux Kernel, TSE, 2021
+
+**Paper**: [[link1]](https://ieeexplore.ieee.org/abstract/document/8896061)
+
+-------------------
+
 - #### [46] Commit Message Can Help: Security Patch Detection in Open Source Software via Transformer, SERA, 2023
 
 **Paper**: [[link1]](https://github.com/fzuo/Patch-Commits-Study/blob/master/papers/Commit_Message_Can_Help.pdf) [[link2]](https://ieeexplore.ieee.org/abstract/document/10197730)
