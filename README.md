@@ -32,13 +32,6 @@ International Journal of Information Security. (2024). https://doi.org/10.1007/s
 
 **Paper**: [[link1]](http://www.mysmu.edu/faculty/davidlo/papers/icse12-patch.pdf) [[link2]](https://ieeexplore.ieee.org/document/6227176)
 
-
--------------------
-
-- #### [36] Identifying Supplementary Bug-ﬁx Commits, COMPSAC, 2018
-
-**Paper**: [[link1]](https://ieeexplore.ieee.org/abstract/document/8377655)
-
 -------------------
 
 - #### [14] Detecting “0-Day” Vulnerability: An Empirical Study of Secret Security Patch in OSS, DSN, 2019
@@ -49,9 +42,11 @@ International Journal of Information Security. (2024). https://doi.org/10.1007/s
 
 -------------------
 
-- #### A Machine Learning Approach to Classify Security Patches into Vulnerability Types, CNS, 2020
+- #### [15] Vulnerability identification technology research based on project version difference, Chinese Journal of Network and Information Security, 2022
 
-**Paper**: [[link1]](https://csis.gmu.edu/ksun/publications/CNS20_PatchByType.pdf) [[link2]](https://ieeexplore.ieee.org/document/9162237)
+**Paper**: [[link1]](http://www.infocomm-journal.com/cjnis/article/2022/2096-109X/2096-109X-8-1-00052.shtml)
+
+[Dataset](https://github.com/das-lab/VpatchFinder)
 
 -------------------
 
@@ -79,17 +74,21 @@ International Journal of Information Security. (2024). https://doi.org/10.1007/s
 
 -------------------
 
-- #### Vulnerability identification technology research based on project version difference, Chinese Journal of Network and Information Security, 2022
-
-**Paper**: [[link1]](http://www.infocomm-journal.com/cjnis/article/2022/2096-109X/2096-109X-8-1-00052.shtml)
-
-[Dataset](https://github.com/das-lab/VpatchFinder)
-
--------------------
-
 - #### [35] VCCFinder: Finding Potential Vulnerabilities in Open-Source Projects to Assist Code Audits, CCS, 2015
 
 **Paper**: [[link1]](http://saschafahl.de/static/paper/vccfinder2015.pdf) [[link2]](https://dl.acm.org/doi/10.1145/2810103.2813604)
+
+-------------------
+
+- #### [36] Identifying Supplementary Bug-ﬁx Commits, COMPSAC, 2018
+
+**Paper**: [[link1]](https://ieeexplore.ieee.org/abstract/document/8377655)
+
+-------------------
+
+- #### [37] A Machine Learning Approach to Classify Security Patches into Vulnerability Types, CNS, 2020
+
+**Paper**: [[link1]](https://csis.gmu.edu/ksun/publications/CNS20_PatchByType.pdf) [[link2]](https://ieeexplore.ieee.org/document/9162237)
 
 -------------------
 
