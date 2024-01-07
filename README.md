@@ -3,10 +3,16 @@ A Survey on Source Code Patch Commit Mining in OSS
 
 ![Overview](https://github.com/fzuo/Patch-Commits-Study/blob/master/figs/papers.png "An overview and taxonomy of the related papers")
 
+
+Zuo, F., Rhee, J. Vulnerability discovery based on source code patch commit mining: a systematic literature review. International Journal of Information Security. (2024). 
+https://doi.org/10.1007/s10207-023-00795-8
+
+**Paper**: [[link2]](https://link.springer.com/article/10.1007/s10207-023-00795-8)
+
 -------------------
 - #### [46] Commit Message Can Help: Security Patch Detection in Open Source Software via Transformer, SERA, 2023
 
-**Paper**: [[link1]](https://ieeexplore.ieee.org/abstract/document/10197730)
+**Paper**: [[link1]](https://github.com/fzuo/Patch-Commits-Study/blob/master/papers/Commit_Message_Can_Help.pdf) [[link2]](https://ieeexplore.ieee.org/abstract/document/10197730)
 
 -------------------
 
