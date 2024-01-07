@@ -1,7 +1,7 @@
 # Source Code Patch Commit Mining Papers and Resources
 A Survey on Source Code Patch Commit Mining in OSS
 
-![Overview](https://github.com/fzuo/Patch-Commits-Study/blob/master/figs/papers.png "An overview and taxonomy of the related papers")
+![Overview](https://github.com/fzuo/Patch-Commits-Study/blob/master/figs/reviewed_papers.png "An overview and taxonomy of the related papers")
 
 
 Zuo, F., Rhee, J. Vulnerability discovery based on source code patch commit mining: a systematic literature review. 
