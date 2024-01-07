@@ -1,7 +1,12 @@
 # Source Code Patch Commit Mining Papers and Resources
 A Survey on Source Code Patch Commit Mining in OSS
 
-![Overview](https://github.com/fzuo/Patch-Commits-Study/blob/master/figs/overview.png "An overview and taxonomy of the related papers")
+![Overview](https://github.com/fzuo/Patch-Commits-Study/blob/master/figs/papers.png "An overview and taxonomy of the related papers")
+
+-------------------
+- #### [46] Commit Message Can Help: Security Patch Detection in Open Source Software via Transformer, SERA, 2023
+
+**Paper**: [[link1]](https://ieeexplore.ieee.org/abstract/document/10197730)
 
 -------------------
 
